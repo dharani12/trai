@@ -7,3 +7,6 @@ main()
 }
 
 //comment lines
+function()
+{
+}
